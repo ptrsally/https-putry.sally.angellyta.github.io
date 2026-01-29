@@ -19,7 +19,9 @@
   <!-- ===== ABOUT / SUMMARY ===== -->
   <section id="about" class="about">
     <h2>About Me</h2>
-    <p>I'm Putry Sally Angellyta, an Accounting & Tax professional with expertise in audit, financial reporting, and data analysis. I also have experience in digital marketing and social media management. I focus on delivering accurate, data-driven insights and practical solutions that create measurable impact in professional and academic projects.</p>
+    <p>I am Putry Sally Angellyta, an accounting & tax professional with expertise in audit, financial reporting, and data analysis. In addition to my financial background, I have experience in digital marketing and social media management, which allows me to combine analytical precision with creative communication.
+
+My focus is on delivering accurate, data driven insights and practical solutions that generate real impact in both professional and academic projects. With a unique ability to bridge financial accuracy and strategic communication, I am committed to helping organizations enhance performance while strengthening visibility and engagement.</p>
   </section>
 <section id="education">
   <h2>Education</h2>
