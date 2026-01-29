@@ -21,7 +21,39 @@
     <h2>About Me</h2>
     <p>I'm Putry Sally Angellyta, an Accounting & Tax professional with expertise in audit, financial reporting, and data analysis. I also have experience in digital marketing and social media management. I focus on delivering accurate, data-driven insights and practical solutions that create measurable impact in professional and academic projects.</p>
   </section>
-
+<section id="education">
+  <h2>Education</h2>
+  <ul>
+    <li>
+      <strong>Kindergarten</strong> – TK Windujanten (2008/2009)
+    </li>
+    <li>
+      <strong>Elementary School</strong> – SDN 2 Kuningan (2014/2015)
+    </li>
+    <li>
+      <strong>Elementary School</strong> – Madrasah Diniyah Al Ihsan (2014/2015)
+    </li>
+    <li>
+      <strong>Junior High School</strong> – SMP Negeri 2 Kuningan (2017/2018)
+    </li>
+    <li>
+      <strong>Vocational High School</strong> – SMK Negeri 2 Kuningan (2020)
+    </li>
+    <li>
+      <strong>Vocational High School</strong> – SMKS 2 Muhammadiyah Tangerang Selatan (2021)
+    </li>
+    <li>
+      <strong>Bachelor’s Degree (S1)</strong> – Institut Teknologi dan Bisnis Ahmad Dahlan Jakarta  (2024/2025)
+      <br><em>Major: Accounting (Taxation)</em>
+      <br><em>GPA: 3,65/4,00</em>
+      <br><em>3,5 years/ 7/8 semester</em>
+    </li>
+    <li>
+      <strong>Master’s Degree (S2)</strong> – Universitas Pamulang (Now)  
+      <br><em>Major: Informatics Engineering</em>
+    </li>
+  </ul>
+</section>
 
   <!-- Skills -->
  <section id="skills">
