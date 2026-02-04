@@ -124,8 +124,8 @@ My focus is on delivering accurate, data driven insights and practical solutions
   <section id="Achievements">
   <h2>Achievements</h2>
   <ul>
-    <li>KIP Scholarship – Undergraduate Studies (S1)</li>
-    <li>Partial Funded Scholarship – Master’s Studies (S2)</li>
+    <li>KIP Scholarship – Bachelor's Degree (S1)</li>
+    <li>Partial Funded Scholarship – Master’s Degree (S2)</li>
     <li>Brevet Pajak Scholarship– Level A/B</li>
     <li>Top Score – Tax Volunteer Test, Representative ITB Ahmad Dahlan Jakarta at DJP</li>
     <li>Outstanding Student – (2024)</li>
